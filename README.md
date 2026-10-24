@@ -122,5 +122,4 @@ Start_Server(page)
 ## 🗺️ Coming soon
 More modules and sensors are on the way. Watch this space! ⭐
 
-## 📄 License
-MIT — free to use, learn from, and share.
+
